@@ -4,3 +4,6 @@ Possuo interesse em várias áreas.
 o git bash é um terminal extendido para otimizar o uso do git.
 
 Prentendo finalizar o bootcamp e prosseguir nessa área.
+
+
+teste
